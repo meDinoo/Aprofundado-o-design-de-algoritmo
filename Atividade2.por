@@ -4,7 +4,7 @@ programa {
     real media
 
     para( inteiro i=0; i<=9; i++){ 
-      escreva("entre com o ", i+1,"Â° elemento ")
+      escreva("entre com o ", i+1,"° elemento ")
       leia(entrada[i])
     }
    limpa()
